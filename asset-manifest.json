@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/flavor/static/css/main.46ab686c.chunk.css",
+    "main.js": "/flavor/static/js/main.beff2151.chunk.js",
+    "main.js.map": "/flavor/static/js/main.beff2151.chunk.js.map",
+    "runtime-main.js": "/flavor/static/js/runtime-main.163c0dd6.js",
+    "runtime-main.js.map": "/flavor/static/js/runtime-main.163c0dd6.js.map",
+    "static/js/2.e5575223.chunk.js": "/flavor/static/js/2.e5575223.chunk.js",
+    "static/js/2.e5575223.chunk.js.map": "/flavor/static/js/2.e5575223.chunk.js.map",
+    "index.html": "/flavor/index.html",
+    "precache-manifest.3dbc30adb929a2925f360bfdc492be0e.js": "/flavor/precache-manifest.3dbc30adb929a2925f360bfdc492be0e.js",
+    "service-worker.js": "/flavor/service-worker.js",
+    "static/css/main.46ab686c.chunk.css.map": "/flavor/static/css/main.46ab686c.chunk.css.map",
+    "static/js/2.e5575223.chunk.js.LICENSE.txt": "/flavor/static/js/2.e5575223.chunk.js.LICENSE.txt",
+    "static/media/flavorgarlic.png": "/flavor/static/media/flavorgarlic.5f680ee1.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.163c0dd6.js",
+    "static/js/2.e5575223.chunk.js",
+    "static/css/main.46ab686c.chunk.css",
+    "static/js/main.beff2151.chunk.js"
+  ]
+}
